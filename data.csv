@@ -6,3 +6,7 @@
 103.171.176.0/23,HK,HK,Kwai Chung,
 103.180.28.0/23,HK,HK,Kwai Chung,
 103.168.154.0/23,JP,JP-13,Tokyo,140-0002
+2404:c140::/32,HK,HK,Kwai Chung,
+2406:2fc0::/32,HK,HK,Kwai Chung,
+2602:fbda:800::/40,US,US-CA,San Jose,95119
+2404:c140:1e00::/40,JP,JP-13,Tokyo,140-0002
