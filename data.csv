@@ -1,12 +1,16 @@
 # prefix,country_code,region_code,city,postal
 103.138.72.0/23,US,US-CA,San Jose,95119
+2602:fbda:800::/40,US,US-CA,San Jose,95119
 103.138.74.0/23,HK,HK,Kwai Chung,
 103.152.220.0/23,HK,HK,Kwai Chung,
 45.62.172.0/23,HK,HK,Kwai Chung,
 103.171.176.0/23,HK,HK,Kwai Chung,
 103.180.28.0/23,HK,HK,Kwai Chung,
-103.168.154.0/23,JP,JP-13,Tokyo,140-0002
-2404:c140::/32,HK,HK,Kwai Chung,
+149.118.60.0/22,HK,HK,Kwai Chung,
+2404:c140:1e00::/40,HK,HK,Kwai Chung,
+2404:c140:223::/48,HK,HK,Kwai Chung,
+2404:c140:220::/48,HK,HK,Kwai Chung,
+2404:c140:156::/48,HK,HK,Kwai Chung,
 2406:2fc0::/32,HK,HK,Kwai Chung,
-2602:fbda:800::/40,US,US-CA,San Jose,95119
-2404:c140:1e00::/40,JP,JP-13,Tokyo,140-0002
+103.168.154.0/23,JP,JP-13,Tokyo,140-0002
+2404:c140:221::/48,JP,JP-13,Tokyo,140-0002
