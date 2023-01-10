@@ -1,6 +1,7 @@
 #prefix,country_code,region_code,city,postal
 103.168.154.0/24,JP,JP-13,Tokyo,140-0002
 103.168.155.0/24,JP,JP-13,Tokyo,140-0002
+38.150.10.0/23,JP,JP-13,Tokyo,140-0002
 2404:c140:221::/48,JP,JP-13,Tokyo,140-0002
 45.62.172.0/23,HK,HK,Kwai Chung,
 103.138.72.0/22,HK,HK,Kwai Chung,
