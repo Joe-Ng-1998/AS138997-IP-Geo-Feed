@@ -156,4 +156,7 @@
 2404:c140:2100::/40,SG,SG-05,Singapore,139964                  
 2a12:bec0:16d::/48,SG,SG-05,Singapore,139964
 37.128.250.0/23,JP,JP-13,Tokyo,140-0002
+104.129.166.0/23,HK,HK,Kwai Chung,   
+149.126.92.0/22,HK,HK,Kwai Chung,   
+208.73.215.0/24,HK,HK,Kwai Chung,   
 
