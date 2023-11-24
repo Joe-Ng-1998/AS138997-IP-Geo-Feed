@@ -23,9 +23,6 @@
 50.114.16.0/24,HK,HK,Kwai Chung,
 194.124.69.0/24,HK,HK,Kwai Chung,
 89.251.26.0/24,HK,HK,Kwai Chung,
-103.122.116.0/23,JP,JP-13,Tokyo,140-0002      
-103.122.118.0/24,JP,JP-13,Tokyo,140-0002      
-103.122.119.0/24,JP,JP-13,Tokyo,140-0002      
 216.247.110.0/24,JP,JP-13,Tokyo,140-0002      
 2403:8ec0::/32,JP,JP-13,Tokyo,140-0002        
 2404:c140:155::/48,JP,JP-13,Tokyo,140-0002    
@@ -36,12 +33,6 @@
 2404:c140:2596::/48,TW,TW-TPE,Taipei,100
 2404:c140:956e::/48,JP,JP-13,Tokyo,140-0002
 2404:c140:230::/44,HK,HK,Kwai Chung,    
-23.147.232.0/24,HK,HK,Kwai Chung,    
-23.148.24.0/24,HK,HK,Kwai Chung,        
-44.31.43.0/24,HK,HK,Kwai Chung,         
-44.31.69.0/24,HK,HK,Kwai Chung,         
-44.31.73.0/24,HK,HK,Kwai Chung,         
-45.148.133.0/24,HK,HK,Kwai Chung,       
 84.32.62.0/24,HK,HK,Kwai Chung,         
 103.1.158.0/24,HK,HK,Kwai Chung,        
 103.129.145.0/24,HK,HK,Kwai Chung,            
