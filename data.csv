@@ -16,7 +16,6 @@
 209.146.124.0/22,HK,HK,Kwai Chung,
 65.75.220.0/22,US,US-CA,San Jose,95119
 38.150.8.0/23,SG,SG-05,Singapore,139964
-2404:c140:224::/48,HK,HK,Kwai Chung,
 2602:fada::/44,US,US-CA,San Jose,95119
 2602:fbda:800::/40,US,US-CA,San Jose,95119
 185.128.226.0/24,HK,HK,Kwai Chung,
@@ -42,8 +41,7 @@
 2404:c140:156::/48,HK,HK,Kwai Chung,      
 2404:c140:157::/48,HK,HK,Kwai Chung,      
 2404:c140:210::/44,HK,HK,Kwai Chung,      
-2404:c140:220::/48,HK,HK,Kwai Chung,      
-2404:c140:224::/48,HK,HK,Kwai Chung,      
+2404:c140:220::/48,HK,HK,Kwai Chung,         
 2404:c140:230::/44,HK,HK,Kwai Chung,      
 2404:c140:1e00::/40,HK,HK,Kwai Chung,     
 2404:c140:1f02::/48,HK,HK,Kwai Chung,     
