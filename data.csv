@@ -39,8 +39,7 @@
 2403:7f40:e001::/48,HK,HK,Kwai Chung,     
 2404:c140::/32,HK,HK,Kwai Chung,           
 2404:c140:210::/44,HK,HK,Kwai Chung,           
-2404:c140:230::/44,HK,HK,Kwai Chung,      
-2404:c140:1e00::/40,HK,HK,Kwai Chung,     
+2404:c140:230::/44,HK,HK,Kwai Chung,         
 2404:c140:1f02::/48,HK,HK,Kwai Chung,     
 2404:c140:2596::/48,HK,HK,Kwai Chung,     
 2404:c140:956e::/48,HK,HK,Kwai Chung,     
@@ -127,4 +126,5 @@
 37.128.250.0/23,JP,JP-13,Tokyo,140-0002
 149.126.92.0/22,HK,HK,Kwai Chung,   
 62.112.132.0/22,US,US-CA,San Jose,95119
-
+2404:c140:2100::/40,SG,SG-05,Singapore,139964
+2404:c140:1f00::/40,HK,HK,Kwai Chung,   
